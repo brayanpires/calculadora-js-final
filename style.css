@@ -1,0 +1,35 @@
+body{
+    text-align: center;
+    
+}
+h1{
+    font-size:100px;
+    color: white;
+    
+}
+input{
+    margin: 5px;
+}
+div{
+    
+    width: 100%;
+    background-color: black;
+}
+.botao{
+    background-color: black;
+    color: white;
+    width: 10%;
+    position: absolute;
+    top: 45%;
+    left: 45%;
+}
+#resa{
+
+    background-color: aquamarine;
+    color: black;
+    width: 10%;
+    position: absolute;
+    left: 45%; 
+    top: 28%;
+    font-size: 17px;
+}
